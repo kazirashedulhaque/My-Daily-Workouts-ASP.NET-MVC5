@@ -16,18 +16,18 @@ namespace CountryCityApp.Controllers
 
         public ActionResult Search(string searchBy, string searchCountryTextBox, int? searchCountryList)
         {
-            List<Country> cList = new List<Country>();
+            List<Country> countryList = new List<Country>();
 
             if (searchBy == "Name")
             {
-                db.Countries.Where(c => c.Name.Contains(searchCountryTextBox)).ToList();
+                countryList = db.Countries.Where(c => c.Name.Contains(searchCountryTextBox)).ToList();
             }
             else if (searchBy == "List")
             {
-                db.Countries.Where(c => c.CountryId == searchCountryList).ToList();
+                countryList = db.Countries.Where(c => c.CountryId == searchCountryList).ToList();
             }
             ViewBag.searchCountryList = new SelectList(db.Countries, "CountryId", "Name");
-            return View(cList);
+            return View(countryList);
         }
 
         // GET: /Country/
