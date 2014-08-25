@@ -38,25 +38,6 @@ namespace CountryCityApp.Controllers
             return View(countries.ToList());
         }
 
-        //[HttpPost]
-        //public ActionResult Index(string text, string drop)
-        //{
-            
-        //    ViewBag.Drop = new SelectList(db.Countries, "CountryId", "Name");
-        //    var matchedCountries = new List<Country>();
-
-        //    if (drop == "CountryText")
-        //    {
-        //        matchedCountries = db.Countries.Where(a => a.Name.Contains(text)).ToList();
-        //        return View(matchedCountries.ToList());
-        //    }
-        //    else
-        //    {
-        //        matchedCountries = db.Countries.Where(a => a.Name.Contains(drop)).ToList();
-        //        return View(matchedCountries.ToList());
-        //    }
-            
-        //}
 
         // GET: /Country/Details/5
         public ActionResult Details(int? id)
