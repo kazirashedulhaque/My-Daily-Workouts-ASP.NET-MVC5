@@ -1,0 +1,15 @@
+﻿@model IEnumerable<WebMdApplication.Models.Article>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Articles</h2>
+
+
+@foreach (var item in Model)
+{
+    <h1>@Html.DisplayFor(modelItem=> item.ArticleTitle)</h1>
+    <img src="@Url.Content("~/images/"+item.ImagePath)" width="250px" height="200px">
+    <p>@Html.DisplayFor(modelItem => item.ArticleContent)</p>
+}

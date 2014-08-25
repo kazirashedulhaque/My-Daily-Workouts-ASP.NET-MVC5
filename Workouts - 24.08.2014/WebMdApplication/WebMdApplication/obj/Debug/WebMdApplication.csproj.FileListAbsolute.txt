@@ -1,0 +1,164 @@
+c:\users\acer\documents\visual studio 2013\Projects\WebMdApplication\WebMdApplication\bin\WebMdApplication.dll.config
+c:\users\acer\documents\visual studio 2013\Projects\WebMdApplication\WebMdApplication\bin\WebMdApplication.dll
+c:\users\acer\documents\visual studio 2013\Projects\WebMdApplication\WebMdApplication\bin\WebMdApplication.pdb
+c:\users\acer\documents\visual studio 2013\Projects\WebMdApplication\WebMdApplication\bin\Antlr3.Runtime.dll
+c:\users\acer\documents\visual studio 2013\Projects\WebMdApplication\WebMdApplication\bin\EntityFramework.dll
+c:\users\acer\documents\visual studio 2013\Projects\WebMdApplication\WebMdApplication\bin\EntityFramework.SqlServer.dll
+c:\users\acer\documents\visual studio 2013\Projects\WebMdApplication\WebMdApplication\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\acer\documents\visual studio 2013\Projects\WebMdApplication\WebMdApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\acer\documents\visual studio 2013\Projects\WebMdApplication\WebMdApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\acer\documents\visual studio 2013\Projects\WebMdApplication\WebMdApplication\bin\Microsoft.Owin.dll
+c:\users\acer\documents\visual studio 2013\Projects\WebMdApplication\WebMdApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\acer\documents\visual studio 2013\Projects\WebMdApplication\WebMdApplication\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\acer\documents\visual studio 2013\Projects\WebMdApplication\WebMdApplication\bin\Microsoft.Owin.Security.dll
+c:\users\acer\documents\visual studio 2013\Projects\WebMdApplication\WebMdApplication\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\acer\documents\visual studio 2013\Projects\WebMdApplication\WebMdApplication\bin\Microsoft.Owin.Security.Google.dll
+c:\users\acer\documents\visual studio 2013\Projects\WebMdApplication\WebMdApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\acer\documents\visual studio 2013\Projects\WebMdApplication\WebMdApplication\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\acer\documents\visual studio 2013\Projects\WebMdApplication\WebMdApplication\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\acer\documents\visual studio 2013\Projects\WebMdApplication\WebMdApplication\bin\Microsoft.Web.Infrastructure.dll
+c:\users\acer\documents\visual studio 2013\Projects\WebMdApplication\WebMdApplication\bin\Newtonsoft.Json.dll
+c:\users\acer\documents\visual studio 2013\Projects\WebMdApplication\WebMdApplication\bin\Owin.dll
+c:\users\acer\documents\visual studio 2013\Projects\WebMdApplication\WebMdApplication\bin\System.Web.Helpers.dll
+c:\users\acer\documents\visual studio 2013\Projects\WebMdApplication\WebMdApplication\bin\System.Web.Mvc.dll
+c:\users\acer\documents\visual studio 2013\Projects\WebMdApplication\WebMdApplication\bin\System.Web.Optimization.dll
+c:\users\acer\documents\visual studio 2013\Projects\WebMdApplication\WebMdApplication\bin\System.Web.Razor.dll
+c:\users\acer\documents\visual studio 2013\Projects\WebMdApplication\WebMdApplication\bin\System.Web.WebPages.Deployment.dll
+c:\users\acer\documents\visual studio 2013\Projects\WebMdApplication\WebMdApplication\bin\System.Web.WebPages.dll
+c:\users\acer\documents\visual studio 2013\Projects\WebMdApplication\WebMdApplication\bin\System.Web.WebPages.Razor.dll
+c:\users\acer\documents\visual studio 2013\Projects\WebMdApplication\WebMdApplication\bin\WebGrease.dll
+c:\users\acer\documents\visual studio 2013\Projects\WebMdApplication\WebMdApplication\bin\System.Web.Helpers.xml
+c:\users\acer\documents\visual studio 2013\Projects\WebMdApplication\WebMdApplication\bin\System.Web.Mvc.xml
+c:\users\acer\documents\visual studio 2013\Projects\WebMdApplication\WebMdApplication\bin\System.Web.Optimization.xml
+c:\users\acer\documents\visual studio 2013\Projects\WebMdApplication\WebMdApplication\bin\System.Web.Razor.xml
+c:\users\acer\documents\visual studio 2013\Projects\WebMdApplication\WebMdApplication\bin\System.Web.WebPages.xml
+c:\users\acer\documents\visual studio 2013\Projects\WebMdApplication\WebMdApplication\bin\System.Web.WebPages.Deployment.xml
+c:\users\acer\documents\visual studio 2013\Projects\WebMdApplication\WebMdApplication\bin\System.Web.WebPages.Razor.xml
+c:\users\acer\documents\visual studio 2013\Projects\WebMdApplication\WebMdApplication\bin\Newtonsoft.Json.xml
+c:\users\acer\documents\visual studio 2013\Projects\WebMdApplication\WebMdApplication\bin\Antlr3.Runtime.pdb
+c:\users\acer\documents\visual studio 2013\Projects\WebMdApplication\WebMdApplication\bin\EntityFramework.xml
+c:\users\acer\documents\visual studio 2013\Projects\WebMdApplication\WebMdApplication\bin\EntityFramework.SqlServer.xml
+c:\users\acer\documents\visual studio 2013\Projects\WebMdApplication\WebMdApplication\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\acer\documents\visual studio 2013\Projects\WebMdApplication\WebMdApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\acer\documents\visual studio 2013\Projects\WebMdApplication\WebMdApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\acer\documents\visual studio 2013\Projects\WebMdApplication\WebMdApplication\bin\Microsoft.Owin.xml
+c:\users\acer\documents\visual studio 2013\Projects\WebMdApplication\WebMdApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\acer\documents\visual studio 2013\Projects\WebMdApplication\WebMdApplication\bin\Microsoft.Owin.Security.xml
+c:\users\acer\documents\visual studio 2013\Projects\WebMdApplication\WebMdApplication\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\acer\documents\visual studio 2013\Projects\WebMdApplication\WebMdApplication\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\acer\documents\visual studio 2013\Projects\WebMdApplication\WebMdApplication\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\acer\documents\visual studio 2013\Projects\WebMdApplication\WebMdApplication\bin\Microsoft.Owin.Security.Google.xml
+c:\users\acer\documents\visual studio 2013\Projects\WebMdApplication\WebMdApplication\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\acer\documents\visual studio 2013\Projects\WebMdApplication\WebMdApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\acer\documents\visual studio 2013\Projects\WebMdApplication\WebMdApplication\obj\Debug\WebMdApplication.dll
+c:\users\acer\documents\visual studio 2013\Projects\WebMdApplication\WebMdApplication\obj\Debug\WebMdApplication.pdb
+c:\users\acer\documents\visual studio 2013\Projects\WebMdApplication\WebMdApplication\obj\Debug\WebMdApplication.csprojResolveAssemblyReference.cache
+C:\Users\BITM-Trainee\Desktop\WebMdApplication\WebMdApplication\bin\WebMdApplication.dll.config
+C:\Users\BITM-Trainee\Desktop\WebMdApplication\WebMdApplication\bin\WebMdApplication.dll
+C:\Users\BITM-Trainee\Desktop\WebMdApplication\WebMdApplication\bin\WebMdApplication.pdb
+C:\Users\BITM-Trainee\Desktop\WebMdApplication\WebMdApplication\bin\Antlr3.Runtime.dll
+C:\Users\BITM-Trainee\Desktop\WebMdApplication\WebMdApplication\bin\EntityFramework.dll
+C:\Users\BITM-Trainee\Desktop\WebMdApplication\WebMdApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\BITM-Trainee\Desktop\WebMdApplication\WebMdApplication\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\BITM-Trainee\Desktop\WebMdApplication\WebMdApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\BITM-Trainee\Desktop\WebMdApplication\WebMdApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\BITM-Trainee\Desktop\WebMdApplication\WebMdApplication\bin\Microsoft.Owin.dll
+C:\Users\BITM-Trainee\Desktop\WebMdApplication\WebMdApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\BITM-Trainee\Desktop\WebMdApplication\WebMdApplication\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\BITM-Trainee\Desktop\WebMdApplication\WebMdApplication\bin\Microsoft.Owin.Security.dll
+C:\Users\BITM-Trainee\Desktop\WebMdApplication\WebMdApplication\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\BITM-Trainee\Desktop\WebMdApplication\WebMdApplication\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\BITM-Trainee\Desktop\WebMdApplication\WebMdApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\BITM-Trainee\Desktop\WebMdApplication\WebMdApplication\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\BITM-Trainee\Desktop\WebMdApplication\WebMdApplication\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\BITM-Trainee\Desktop\WebMdApplication\WebMdApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\BITM-Trainee\Desktop\WebMdApplication\WebMdApplication\bin\Newtonsoft.Json.dll
+C:\Users\BITM-Trainee\Desktop\WebMdApplication\WebMdApplication\bin\Owin.dll
+C:\Users\BITM-Trainee\Desktop\WebMdApplication\WebMdApplication\bin\System.Web.Helpers.dll
+C:\Users\BITM-Trainee\Desktop\WebMdApplication\WebMdApplication\bin\System.Web.Mvc.dll
+C:\Users\BITM-Trainee\Desktop\WebMdApplication\WebMdApplication\bin\System.Web.Optimization.dll
+C:\Users\BITM-Trainee\Desktop\WebMdApplication\WebMdApplication\bin\System.Web.Razor.dll
+C:\Users\BITM-Trainee\Desktop\WebMdApplication\WebMdApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\BITM-Trainee\Desktop\WebMdApplication\WebMdApplication\bin\System.Web.WebPages.dll
+C:\Users\BITM-Trainee\Desktop\WebMdApplication\WebMdApplication\bin\System.Web.WebPages.Razor.dll
+C:\Users\BITM-Trainee\Desktop\WebMdApplication\WebMdApplication\bin\WebGrease.dll
+C:\Users\BITM-Trainee\Desktop\WebMdApplication\WebMdApplication\bin\System.Web.Helpers.xml
+C:\Users\BITM-Trainee\Desktop\WebMdApplication\WebMdApplication\bin\System.Web.Mvc.xml
+C:\Users\BITM-Trainee\Desktop\WebMdApplication\WebMdApplication\bin\System.Web.Optimization.xml
+C:\Users\BITM-Trainee\Desktop\WebMdApplication\WebMdApplication\bin\System.Web.Razor.xml
+C:\Users\BITM-Trainee\Desktop\WebMdApplication\WebMdApplication\bin\System.Web.WebPages.xml
+C:\Users\BITM-Trainee\Desktop\WebMdApplication\WebMdApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\BITM-Trainee\Desktop\WebMdApplication\WebMdApplication\bin\System.Web.WebPages.Razor.xml
+C:\Users\BITM-Trainee\Desktop\WebMdApplication\WebMdApplication\bin\Newtonsoft.Json.xml
+C:\Users\BITM-Trainee\Desktop\WebMdApplication\WebMdApplication\bin\Antlr3.Runtime.pdb
+C:\Users\BITM-Trainee\Desktop\WebMdApplication\WebMdApplication\bin\EntityFramework.xml
+C:\Users\BITM-Trainee\Desktop\WebMdApplication\WebMdApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\BITM-Trainee\Desktop\WebMdApplication\WebMdApplication\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\BITM-Trainee\Desktop\WebMdApplication\WebMdApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\BITM-Trainee\Desktop\WebMdApplication\WebMdApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\BITM-Trainee\Desktop\WebMdApplication\WebMdApplication\bin\Microsoft.Owin.xml
+C:\Users\BITM-Trainee\Desktop\WebMdApplication\WebMdApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\BITM-Trainee\Desktop\WebMdApplication\WebMdApplication\bin\Microsoft.Owin.Security.xml
+C:\Users\BITM-Trainee\Desktop\WebMdApplication\WebMdApplication\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\BITM-Trainee\Desktop\WebMdApplication\WebMdApplication\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\BITM-Trainee\Desktop\WebMdApplication\WebMdApplication\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\BITM-Trainee\Desktop\WebMdApplication\WebMdApplication\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\BITM-Trainee\Desktop\WebMdApplication\WebMdApplication\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\BITM-Trainee\Desktop\WebMdApplication\WebMdApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\BITM-Trainee\Desktop\WebMdApplication\WebMdApplication\obj\Debug\WebMdApplication.csprojResolveAssemblyReference.cache
+C:\Users\BITM-Trainee\Desktop\WebMdApplication\WebMdApplication\obj\Debug\WebMdApplication.dll
+C:\Users\BITM-Trainee\Desktop\WebMdApplication\WebMdApplication\obj\Debug\WebMdApplication.pdb
+J:\Zaman Sir\Workouts - 24.08.2014\WebMdApplication\WebMdApplication\bin\WebMdApplication.dll.config
+J:\Zaman Sir\Workouts - 24.08.2014\WebMdApplication\WebMdApplication\bin\WebMdApplication.dll
+J:\Zaman Sir\Workouts - 24.08.2014\WebMdApplication\WebMdApplication\bin\WebMdApplication.pdb
+J:\Zaman Sir\Workouts - 24.08.2014\WebMdApplication\WebMdApplication\bin\Antlr3.Runtime.dll
+J:\Zaman Sir\Workouts - 24.08.2014\WebMdApplication\WebMdApplication\bin\EntityFramework.dll
+J:\Zaman Sir\Workouts - 24.08.2014\WebMdApplication\WebMdApplication\bin\EntityFramework.SqlServer.dll
+J:\Zaman Sir\Workouts - 24.08.2014\WebMdApplication\WebMdApplication\bin\Microsoft.AspNet.Identity.Core.dll
+J:\Zaman Sir\Workouts - 24.08.2014\WebMdApplication\WebMdApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+J:\Zaman Sir\Workouts - 24.08.2014\WebMdApplication\WebMdApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+J:\Zaman Sir\Workouts - 24.08.2014\WebMdApplication\WebMdApplication\bin\Microsoft.Owin.dll
+J:\Zaman Sir\Workouts - 24.08.2014\WebMdApplication\WebMdApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+J:\Zaman Sir\Workouts - 24.08.2014\WebMdApplication\WebMdApplication\bin\Microsoft.Owin.Security.Cookies.dll
+J:\Zaman Sir\Workouts - 24.08.2014\WebMdApplication\WebMdApplication\bin\Microsoft.Owin.Security.dll
+J:\Zaman Sir\Workouts - 24.08.2014\WebMdApplication\WebMdApplication\bin\Microsoft.Owin.Security.Facebook.dll
+J:\Zaman Sir\Workouts - 24.08.2014\WebMdApplication\WebMdApplication\bin\Microsoft.Owin.Security.Google.dll
+J:\Zaman Sir\Workouts - 24.08.2014\WebMdApplication\WebMdApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+J:\Zaman Sir\Workouts - 24.08.2014\WebMdApplication\WebMdApplication\bin\Microsoft.Owin.Security.OAuth.dll
+J:\Zaman Sir\Workouts - 24.08.2014\WebMdApplication\WebMdApplication\bin\Microsoft.Owin.Security.Twitter.dll
+J:\Zaman Sir\Workouts - 24.08.2014\WebMdApplication\WebMdApplication\bin\Microsoft.Web.Infrastructure.dll
+J:\Zaman Sir\Workouts - 24.08.2014\WebMdApplication\WebMdApplication\bin\Newtonsoft.Json.dll
+J:\Zaman Sir\Workouts - 24.08.2014\WebMdApplication\WebMdApplication\bin\Owin.dll
+J:\Zaman Sir\Workouts - 24.08.2014\WebMdApplication\WebMdApplication\bin\System.Web.Helpers.dll
+J:\Zaman Sir\Workouts - 24.08.2014\WebMdApplication\WebMdApplication\bin\System.Web.Mvc.dll
+J:\Zaman Sir\Workouts - 24.08.2014\WebMdApplication\WebMdApplication\bin\System.Web.Optimization.dll
+J:\Zaman Sir\Workouts - 24.08.2014\WebMdApplication\WebMdApplication\bin\System.Web.Razor.dll
+J:\Zaman Sir\Workouts - 24.08.2014\WebMdApplication\WebMdApplication\bin\System.Web.WebPages.Deployment.dll
+J:\Zaman Sir\Workouts - 24.08.2014\WebMdApplication\WebMdApplication\bin\System.Web.WebPages.dll
+J:\Zaman Sir\Workouts - 24.08.2014\WebMdApplication\WebMdApplication\bin\System.Web.WebPages.Razor.dll
+J:\Zaman Sir\Workouts - 24.08.2014\WebMdApplication\WebMdApplication\bin\WebGrease.dll
+J:\Zaman Sir\Workouts - 24.08.2014\WebMdApplication\WebMdApplication\bin\System.Web.Helpers.xml
+J:\Zaman Sir\Workouts - 24.08.2014\WebMdApplication\WebMdApplication\bin\System.Web.Mvc.xml
+J:\Zaman Sir\Workouts - 24.08.2014\WebMdApplication\WebMdApplication\bin\System.Web.Optimization.xml
+J:\Zaman Sir\Workouts - 24.08.2014\WebMdApplication\WebMdApplication\bin\System.Web.Razor.xml
+J:\Zaman Sir\Workouts - 24.08.2014\WebMdApplication\WebMdApplication\bin\System.Web.WebPages.xml
+J:\Zaman Sir\Workouts - 24.08.2014\WebMdApplication\WebMdApplication\bin\System.Web.WebPages.Deployment.xml
+J:\Zaman Sir\Workouts - 24.08.2014\WebMdApplication\WebMdApplication\bin\System.Web.WebPages.Razor.xml
+J:\Zaman Sir\Workouts - 24.08.2014\WebMdApplication\WebMdApplication\bin\Newtonsoft.Json.xml
+J:\Zaman Sir\Workouts - 24.08.2014\WebMdApplication\WebMdApplication\bin\Antlr3.Runtime.pdb
+J:\Zaman Sir\Workouts - 24.08.2014\WebMdApplication\WebMdApplication\bin\EntityFramework.xml
+J:\Zaman Sir\Workouts - 24.08.2014\WebMdApplication\WebMdApplication\bin\EntityFramework.SqlServer.xml
+J:\Zaman Sir\Workouts - 24.08.2014\WebMdApplication\WebMdApplication\bin\Microsoft.AspNet.Identity.Core.xml
+J:\Zaman Sir\Workouts - 24.08.2014\WebMdApplication\WebMdApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+J:\Zaman Sir\Workouts - 24.08.2014\WebMdApplication\WebMdApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+J:\Zaman Sir\Workouts - 24.08.2014\WebMdApplication\WebMdApplication\bin\Microsoft.Owin.xml
+J:\Zaman Sir\Workouts - 24.08.2014\WebMdApplication\WebMdApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+J:\Zaman Sir\Workouts - 24.08.2014\WebMdApplication\WebMdApplication\bin\Microsoft.Owin.Security.xml
+J:\Zaman Sir\Workouts - 24.08.2014\WebMdApplication\WebMdApplication\bin\Microsoft.Owin.Security.Facebook.xml
+J:\Zaman Sir\Workouts - 24.08.2014\WebMdApplication\WebMdApplication\bin\Microsoft.Owin.Security.Cookies.xml
+J:\Zaman Sir\Workouts - 24.08.2014\WebMdApplication\WebMdApplication\bin\Microsoft.Owin.Security.OAuth.xml
+J:\Zaman Sir\Workouts - 24.08.2014\WebMdApplication\WebMdApplication\bin\Microsoft.Owin.Security.Google.xml
+J:\Zaman Sir\Workouts - 24.08.2014\WebMdApplication\WebMdApplication\bin\Microsoft.Owin.Security.Twitter.xml
+J:\Zaman Sir\Workouts - 24.08.2014\WebMdApplication\WebMdApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+J:\Zaman Sir\Workouts - 24.08.2014\WebMdApplication\WebMdApplication\obj\Debug\WebMdApplication.dll
+J:\Zaman Sir\Workouts - 24.08.2014\WebMdApplication\WebMdApplication\obj\Debug\WebMdApplication.pdb

@@ -1,0 +1,24 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<h1>Search Article</h1>
+
+@using (Html.BeginForm("Index", "Article", null, FormMethod.Post, new {enctype = "multipart/form-data"}))
+
+{
+    @Html.AntiForgeryToken()
+       <div class="form-horizontal">
+        <h4>Article List</h4>
+        <hr />
+        @Html.ValidationSummary(true)
+
+           <div class="form-group">
+               @Html.Label("Article")
+               @Html.TextBox("Text")
+               <input type="submit" name="submit" value="Search"/>
+           </div>   
+            
+    </div>
+
+}
