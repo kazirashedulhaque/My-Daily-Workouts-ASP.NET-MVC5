@@ -1,0 +1,9 @@
+F:\Rashed - ITS - 2014000047\asp.net\CustomerQueueManagementApp\CustomerQueueManagementApp\bin\Debug\CustomerQueueManagementApp.exe.config
+F:\Rashed - ITS - 2014000047\asp.net\CustomerQueueManagementApp\CustomerQueueManagementApp\bin\Debug\CustomerQueueManagementApp.exe
+F:\Rashed - ITS - 2014000047\asp.net\CustomerQueueManagementApp\CustomerQueueManagementApp\bin\Debug\CustomerQueueManagementApp.pdb
+F:\Rashed - ITS - 2014000047\asp.net\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.csprojResolveAssemblyReference.cache
+F:\Rashed - ITS - 2014000047\asp.net\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.CustomerQueueManagementUI.resources
+F:\Rashed - ITS - 2014000047\asp.net\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.Properties.Resources.resources
+F:\Rashed - ITS - 2014000047\asp.net\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.csproj.GenerateResource.Cache
+F:\Rashed - ITS - 2014000047\asp.net\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.exe
+F:\Rashed - ITS - 2014000047\asp.net\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.pdb

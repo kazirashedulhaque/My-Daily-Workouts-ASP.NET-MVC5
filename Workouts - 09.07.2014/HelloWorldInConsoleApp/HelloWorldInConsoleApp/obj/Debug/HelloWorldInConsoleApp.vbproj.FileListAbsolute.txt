@@ -1,0 +1,1 @@
+c:\users\bitm-trainee\documents\visual studio 2013\Projects\HelloWorldInConsoleApp\HelloWorldInConsoleApp\bin\Debug\HelloWorldInConsoleApp.exe.config

@@ -1,0 +1,9 @@
+c:\users\bitm-trainee\documents\visual studio 2013\Projects\StudentListApp\StudentListApp\bin\Debug\StudentListApp.exe.config
+c:\users\bitm-trainee\documents\visual studio 2013\Projects\StudentListApp\StudentListApp\bin\Debug\StudentListApp.exe
+c:\users\bitm-trainee\documents\visual studio 2013\Projects\StudentListApp\StudentListApp\bin\Debug\StudentListApp.pdb
+c:\users\bitm-trainee\documents\visual studio 2013\Projects\StudentListApp\StudentListApp\obj\Debug\StudentListApp.StudentListUI.resources
+c:\users\bitm-trainee\documents\visual studio 2013\Projects\StudentListApp\StudentListApp\obj\Debug\StudentListApp.Properties.Resources.resources
+c:\users\bitm-trainee\documents\visual studio 2013\Projects\StudentListApp\StudentListApp\obj\Debug\StudentListApp.csproj.GenerateResource.Cache
+c:\users\bitm-trainee\documents\visual studio 2013\Projects\StudentListApp\StudentListApp\obj\Debug\StudentListApp.exe
+c:\users\bitm-trainee\documents\visual studio 2013\Projects\StudentListApp\StudentListApp\obj\Debug\StudentListApp.pdb
+c:\users\bitm-trainee\documents\visual studio 2013\Projects\StudentListApp\StudentListApp\obj\Debug\StudentListApp.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+F:\Rashed - ITS - 2014000047\asp.net\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+F:\Rashed - ITS - 2014000047\asp.net\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+F:\Rashed - ITS - 2014000047\asp.net\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+F:\Rashed - ITS - 2014000047\asp.net\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.CalculatorUI.resources
+F:\Rashed - ITS - 2014000047\asp.net\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+F:\Rashed - ITS - 2014000047\asp.net\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.Cache
+F:\Rashed - ITS - 2014000047\asp.net\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+F:\Rashed - ITS - 2014000047\asp.net\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
+Q:\BASIS\Day 13. 21-July-2014\My Workouts\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+Q:\BASIS\Day 13. 21-July-2014\My Workouts\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+Q:\BASIS\Day 13. 21-July-2014\My Workouts\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb

@@ -1,0 +1,10 @@
+c:\users\bitm-trainee\documents\visual studio 2013\Projects\AddressBookApp\AddressBookApp\bin\Debug\AddressBookApp.exe.config
+c:\users\bitm-trainee\documents\visual studio 2013\Projects\AddressBookApp\AddressBookApp\bin\Debug\AddressBookApp.exe
+c:\users\bitm-trainee\documents\visual studio 2013\Projects\AddressBookApp\AddressBookApp\bin\Debug\AddressBookApp.pdb
+c:\users\bitm-trainee\documents\visual studio 2013\Projects\AddressBookApp\AddressBookApp\bin\Debug\CSVLib.dll
+c:\users\bitm-trainee\documents\visual studio 2013\Projects\AddressBookApp\AddressBookApp\obj\Debug\AddressBookApp.csprojResolveAssemblyReference.cache
+c:\users\bitm-trainee\documents\visual studio 2013\Projects\AddressBookApp\AddressBookApp\obj\Debug\AddressBookApp.AddressBookUI.resources
+c:\users\bitm-trainee\documents\visual studio 2013\Projects\AddressBookApp\AddressBookApp\obj\Debug\AddressBookApp.Properties.Resources.resources
+c:\users\bitm-trainee\documents\visual studio 2013\Projects\AddressBookApp\AddressBookApp\obj\Debug\AddressBookApp.csproj.GenerateResource.Cache
+c:\users\bitm-trainee\documents\visual studio 2013\Projects\AddressBookApp\AddressBookApp\obj\Debug\AddressBookApp.exe
+c:\users\bitm-trainee\documents\visual studio 2013\Projects\AddressBookApp\AddressBookApp\obj\Debug\AddressBookApp.pdb

@@ -1,0 +1,8 @@
+F:\my programs\CalculateResultAPP\CalculateResultAPP\bin\Debug\CalculateResultAPP.exe.config
+F:\my programs\CalculateResultAPP\CalculateResultAPP\bin\Debug\CalculateResultAPP.exe
+F:\my programs\CalculateResultAPP\CalculateResultAPP\bin\Debug\CalculateResultAPP.pdb
+F:\my programs\CalculateResultAPP\CalculateResultAPP\obj\Debug\CalculateResultAPP.CalculateResultUI.resources
+F:\my programs\CalculateResultAPP\CalculateResultAPP\obj\Debug\CalculateResultAPP.Properties.Resources.resources
+F:\my programs\CalculateResultAPP\CalculateResultAPP\obj\Debug\CalculateResultAPP.csproj.GenerateResource.Cache
+F:\my programs\CalculateResultAPP\CalculateResultAPP\obj\Debug\CalculateResultAPP.exe
+F:\my programs\CalculateResultAPP\CalculateResultAPP\obj\Debug\CalculateResultAPP.pdb

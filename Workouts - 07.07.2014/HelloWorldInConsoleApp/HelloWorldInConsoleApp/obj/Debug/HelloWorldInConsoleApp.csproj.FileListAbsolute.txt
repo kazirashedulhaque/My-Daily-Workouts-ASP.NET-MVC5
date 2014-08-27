@@ -1,0 +1,6 @@
+F:\Rashed - ITS - 2014000047\HelloWorldInConsoleApp\HelloWorldInConsoleApp\bin\Debug\HelloWorldInConsoleApp.exe.config
+F:\Rashed - ITS - 2014000047\HelloWorldInConsoleApp\HelloWorldInConsoleApp\bin\Debug\HelloWorldInConsoleApp.exe
+F:\Rashed - ITS - 2014000047\HelloWorldInConsoleApp\HelloWorldInConsoleApp\bin\Debug\HelloWorldInConsoleApp.pdb
+F:\Rashed - ITS - 2014000047\HelloWorldInConsoleApp\HelloWorldInConsoleApp\obj\Debug\HelloWorldInConsoleApp.csprojResolveAssemblyReference.cache
+F:\Rashed - ITS - 2014000047\HelloWorldInConsoleApp\HelloWorldInConsoleApp\obj\Debug\HelloWorldInConsoleApp.exe
+F:\Rashed - ITS - 2014000047\HelloWorldInConsoleApp\HelloWorldInConsoleApp\obj\Debug\HelloWorldInConsoleApp.pdb

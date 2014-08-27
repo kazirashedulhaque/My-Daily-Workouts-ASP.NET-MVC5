@@ -1,0 +1,9 @@
+F:\Rashed - ITS - 2014000047\AddingApplication\AddingApplication\bin\Debug\AddingApplication.exe.config
+F:\Rashed - ITS - 2014000047\AddingApplication\AddingApplication\obj\Debug\AddingApplication.csprojResolveAssemblyReference.cache
+F:\Rashed - ITS - 2014000047\AddingApplication\AddingApplication\obj\Debug\AddingApplication.Form1.resources
+F:\Rashed - ITS - 2014000047\AddingApplication\AddingApplication\obj\Debug\AddingApplication.Properties.Resources.resources
+F:\Rashed - ITS - 2014000047\AddingApplication\AddingApplication\obj\Debug\AddingApplication.csproj.GenerateResource.Cache
+F:\Rashed - ITS - 2014000047\AddingApplication\AddingApplication\bin\Debug\AddingApplication.exe
+F:\Rashed - ITS - 2014000047\AddingApplication\AddingApplication\bin\Debug\AddingApplication.pdb
+F:\Rashed - ITS - 2014000047\AddingApplication\AddingApplication\obj\Debug\AddingApplication.exe
+F:\Rashed - ITS - 2014000047\AddingApplication\AddingApplication\obj\Debug\AddingApplication.pdb

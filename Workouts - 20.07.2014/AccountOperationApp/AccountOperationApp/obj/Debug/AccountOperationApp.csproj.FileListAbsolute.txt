@@ -1,0 +1,16 @@
+F:\Rashed - ITS - 2014000047\asp.net\AccountOperationApp\AccountOperationApp\bin\Debug\AccountOperationApp.exe.config
+F:\Rashed - ITS - 2014000047\asp.net\AccountOperationApp\AccountOperationApp\bin\Debug\AccountOperationApp.exe
+F:\Rashed - ITS - 2014000047\asp.net\AccountOperationApp\AccountOperationApp\bin\Debug\AccountOperationApp.pdb
+F:\Rashed - ITS - 2014000047\asp.net\AccountOperationApp\AccountOperationApp\obj\Debug\AccountOperationApp.AccountOperationUI.resources
+F:\Rashed - ITS - 2014000047\asp.net\AccountOperationApp\AccountOperationApp\obj\Debug\AccountOperationApp.Properties.Resources.resources
+F:\Rashed - ITS - 2014000047\asp.net\AccountOperationApp\AccountOperationApp\obj\Debug\AccountOperationApp.csproj.GenerateResource.Cache
+F:\Rashed - ITS - 2014000047\asp.net\AccountOperationApp\AccountOperationApp\obj\Debug\AccountOperationApp.exe
+F:\Rashed - ITS - 2014000047\asp.net\AccountOperationApp\AccountOperationApp\obj\Debug\AccountOperationApp.pdb
+I:\BASIS\Day 12. 20-July-2014\My Workouts\AccountOperationApp\AccountOperationApp\bin\Debug\AccountOperationApp.exe.config
+I:\BASIS\Day 12. 20-July-2014\My Workouts\AccountOperationApp\AccountOperationApp\bin\Debug\AccountOperationApp.exe
+I:\BASIS\Day 12. 20-July-2014\My Workouts\AccountOperationApp\AccountOperationApp\bin\Debug\AccountOperationApp.pdb
+I:\BASIS\Day 12. 20-July-2014\My Workouts\AccountOperationApp\AccountOperationApp\obj\Debug\AccountOperationApp.AccountOperationUI.resources
+I:\BASIS\Day 12. 20-July-2014\My Workouts\AccountOperationApp\AccountOperationApp\obj\Debug\AccountOperationApp.Properties.Resources.resources
+I:\BASIS\Day 12. 20-July-2014\My Workouts\AccountOperationApp\AccountOperationApp\obj\Debug\AccountOperationApp.csproj.GenerateResource.Cache
+I:\BASIS\Day 12. 20-July-2014\My Workouts\AccountOperationApp\AccountOperationApp\obj\Debug\AccountOperationApp.exe
+I:\BASIS\Day 12. 20-July-2014\My Workouts\AccountOperationApp\AccountOperationApp\obj\Debug\AccountOperationApp.pdb

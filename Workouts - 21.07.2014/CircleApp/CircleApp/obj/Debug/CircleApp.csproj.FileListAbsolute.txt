@@ -1,0 +1,11 @@
+F:\my programs\CircleApp\CircleApp\bin\Debug\CircleApp.exe.config
+F:\my programs\CircleApp\CircleApp\bin\Debug\CircleApp.exe
+F:\my programs\CircleApp\CircleApp\bin\Debug\CircleApp.pdb
+F:\my programs\CircleApp\CircleApp\obj\Debug\CircleApp.CircleUI.resources
+F:\my programs\CircleApp\CircleApp\obj\Debug\CircleApp.Properties.Resources.resources
+F:\my programs\CircleApp\CircleApp\obj\Debug\CircleApp.csproj.GenerateResource.Cache
+F:\my programs\CircleApp\CircleApp\obj\Debug\CircleApp.exe
+F:\my programs\CircleApp\CircleApp\obj\Debug\CircleApp.pdb
+I:\BASIS\Day 13. 21-July-2014\My Workouts\CircleApp\CircleApp\bin\Debug\CircleApp.exe.config
+I:\BASIS\Day 13. 21-July-2014\My Workouts\CircleApp\CircleApp\obj\Debug\CircleApp.exe
+I:\BASIS\Day 13. 21-July-2014\My Workouts\CircleApp\CircleApp\obj\Debug\CircleApp.pdb

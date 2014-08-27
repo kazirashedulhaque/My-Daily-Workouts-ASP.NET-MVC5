@@ -1,0 +1,8 @@
+c:\users\bitm-trainee\documents\visual studio 2013\Projects\EmployeeInformationApp\EmployeeInformationApp\bin\Debug\EmployeeInformationApp.exe.config
+c:\users\bitm-trainee\documents\visual studio 2013\Projects\EmployeeInformationApp\EmployeeInformationApp\bin\Debug\EmployeeInformationApp.exe
+c:\users\bitm-trainee\documents\visual studio 2013\Projects\EmployeeInformationApp\EmployeeInformationApp\bin\Debug\EmployeeInformationApp.pdb
+c:\users\bitm-trainee\documents\visual studio 2013\Projects\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.EmployeeInformationUI.resources
+c:\users\bitm-trainee\documents\visual studio 2013\Projects\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.Properties.Resources.resources
+c:\users\bitm-trainee\documents\visual studio 2013\Projects\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.csproj.GenerateResource.Cache
+c:\users\bitm-trainee\documents\visual studio 2013\Projects\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.exe
+c:\users\bitm-trainee\documents\visual studio 2013\Projects\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.pdb

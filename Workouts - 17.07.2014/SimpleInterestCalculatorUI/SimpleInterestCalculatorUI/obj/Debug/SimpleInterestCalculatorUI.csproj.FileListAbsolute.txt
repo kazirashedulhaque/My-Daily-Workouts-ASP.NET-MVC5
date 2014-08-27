@@ -1,0 +1,8 @@
+c:\users\bitm-trainee\documents\visual studio 2013\Projects\SimpleInterestCalculatorUI\SimpleInterestCalculatorUI\bin\Debug\SimpleInterestCalculatorUI.exe.config
+c:\users\bitm-trainee\documents\visual studio 2013\Projects\SimpleInterestCalculatorUI\SimpleInterestCalculatorUI\bin\Debug\SimpleInterestCalculatorUI.exe
+c:\users\bitm-trainee\documents\visual studio 2013\Projects\SimpleInterestCalculatorUI\SimpleInterestCalculatorUI\bin\Debug\SimpleInterestCalculatorUI.pdb
+c:\users\bitm-trainee\documents\visual studio 2013\Projects\SimpleInterestCalculatorUI\SimpleInterestCalculatorUI\obj\Debug\SimpleInterestCalculatorUI.Properties.Resources.resources
+c:\users\bitm-trainee\documents\visual studio 2013\Projects\SimpleInterestCalculatorUI\SimpleInterestCalculatorUI\obj\Debug\SimpleInterestCalculatorUI.SimpleInterestCalculatorUI.resources
+c:\users\bitm-trainee\documents\visual studio 2013\Projects\SimpleInterestCalculatorUI\SimpleInterestCalculatorUI\obj\Debug\SimpleInterestCalculatorUI.csproj.GenerateResource.Cache
+c:\users\bitm-trainee\documents\visual studio 2013\Projects\SimpleInterestCalculatorUI\SimpleInterestCalculatorUI\obj\Debug\SimpleInterestCalculatorUI.exe
+c:\users\bitm-trainee\documents\visual studio 2013\Projects\SimpleInterestCalculatorUI\SimpleInterestCalculatorUI\obj\Debug\SimpleInterestCalculatorUI.pdb

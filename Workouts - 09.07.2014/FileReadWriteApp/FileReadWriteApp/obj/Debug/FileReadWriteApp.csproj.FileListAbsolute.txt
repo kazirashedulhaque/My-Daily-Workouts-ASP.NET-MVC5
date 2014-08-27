@@ -1,0 +1,8 @@
+C:\Users\BITM-Trainee\Documents\Visual Studio 2013\Projects\FileReadWriteApp\FileReadWriteApp\bin\Debug\FileReadWriteApp.exe.config
+C:\Users\BITM-Trainee\Documents\Visual Studio 2013\Projects\FileReadWriteApp\FileReadWriteApp\bin\Debug\FileReadWriteApp.exe
+C:\Users\BITM-Trainee\Documents\Visual Studio 2013\Projects\FileReadWriteApp\FileReadWriteApp\bin\Debug\FileReadWriteApp.pdb
+C:\Users\BITM-Trainee\Documents\Visual Studio 2013\Projects\FileReadWriteApp\FileReadWriteApp\obj\Debug\FileReadWriteApp.FileReadWriteUI.resources
+C:\Users\BITM-Trainee\Documents\Visual Studio 2013\Projects\FileReadWriteApp\FileReadWriteApp\obj\Debug\FileReadWriteApp.Properties.Resources.resources
+C:\Users\BITM-Trainee\Documents\Visual Studio 2013\Projects\FileReadWriteApp\FileReadWriteApp\obj\Debug\FileReadWriteApp.csproj.GenerateResource.Cache
+C:\Users\BITM-Trainee\Documents\Visual Studio 2013\Projects\FileReadWriteApp\FileReadWriteApp\obj\Debug\FileReadWriteApp.exe
+C:\Users\BITM-Trainee\Documents\Visual Studio 2013\Projects\FileReadWriteApp\FileReadWriteApp\obj\Debug\FileReadWriteApp.pdb

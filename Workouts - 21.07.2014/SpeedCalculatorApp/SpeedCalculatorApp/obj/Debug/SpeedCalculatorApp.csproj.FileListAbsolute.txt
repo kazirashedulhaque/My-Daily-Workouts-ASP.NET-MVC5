@@ -1,0 +1,8 @@
+E:\C#\SpeedCalculatorApp\SpeedCalculatorApp\bin\Debug\SpeedCalculatorApp.exe.config
+E:\C#\SpeedCalculatorApp\SpeedCalculatorApp\bin\Debug\SpeedCalculatorApp.exe
+E:\C#\SpeedCalculatorApp\SpeedCalculatorApp\bin\Debug\SpeedCalculatorApp.pdb
+E:\C#\SpeedCalculatorApp\SpeedCalculatorApp\obj\Debug\SpeedCalculatorApp.SpeedCalculatorUI.resources
+E:\C#\SpeedCalculatorApp\SpeedCalculatorApp\obj\Debug\SpeedCalculatorApp.Properties.Resources.resources
+E:\C#\SpeedCalculatorApp\SpeedCalculatorApp\obj\Debug\SpeedCalculatorApp.csproj.GenerateResource.Cache
+E:\C#\SpeedCalculatorApp\SpeedCalculatorApp\obj\Debug\SpeedCalculatorApp.exe
+E:\C#\SpeedCalculatorApp\SpeedCalculatorApp\obj\Debug\SpeedCalculatorApp.pdb

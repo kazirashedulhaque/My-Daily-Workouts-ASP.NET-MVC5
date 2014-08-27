@@ -1,0 +1,16 @@
+F:\Rashed - ITS - 2014000047\asp.net\PersonNameApp\PersonNameApp\bin\Debug\PersonNameApp.exe.config
+F:\Rashed - ITS - 2014000047\asp.net\PersonNameApp\PersonNameApp\bin\Debug\PersonNameApp.exe
+F:\Rashed - ITS - 2014000047\asp.net\PersonNameApp\PersonNameApp\bin\Debug\PersonNameApp.pdb
+F:\Rashed - ITS - 2014000047\asp.net\PersonNameApp\PersonNameApp\obj\Debug\PersonNameApp.PersonInformationUI.resources
+F:\Rashed - ITS - 2014000047\asp.net\PersonNameApp\PersonNameApp\obj\Debug\PersonNameApp.Properties.Resources.resources
+F:\Rashed - ITS - 2014000047\asp.net\PersonNameApp\PersonNameApp\obj\Debug\PersonNameApp.csproj.GenerateResource.Cache
+F:\Rashed - ITS - 2014000047\asp.net\PersonNameApp\PersonNameApp\obj\Debug\PersonNameApp.exe
+F:\Rashed - ITS - 2014000047\asp.net\PersonNameApp\PersonNameApp\obj\Debug\PersonNameApp.pdb
+I:\BASIS\Day 13. 21-July-2014\My Workouts\PersonNameApp\PersonNameApp\bin\Debug\PersonNameApp.exe.config
+I:\BASIS\Day 13. 21-July-2014\My Workouts\PersonNameApp\PersonNameApp\bin\Debug\PersonNameApp.exe
+I:\BASIS\Day 13. 21-July-2014\My Workouts\PersonNameApp\PersonNameApp\bin\Debug\PersonNameApp.pdb
+I:\BASIS\Day 13. 21-July-2014\My Workouts\PersonNameApp\PersonNameApp\obj\Debug\PersonNameApp.PersonInformationUI.resources
+I:\BASIS\Day 13. 21-July-2014\My Workouts\PersonNameApp\PersonNameApp\obj\Debug\PersonNameApp.Properties.Resources.resources
+I:\BASIS\Day 13. 21-July-2014\My Workouts\PersonNameApp\PersonNameApp\obj\Debug\PersonNameApp.csproj.GenerateResource.Cache
+I:\BASIS\Day 13. 21-July-2014\My Workouts\PersonNameApp\PersonNameApp\obj\Debug\PersonNameApp.exe
+I:\BASIS\Day 13. 21-July-2014\My Workouts\PersonNameApp\PersonNameApp\obj\Debug\PersonNameApp.pdb

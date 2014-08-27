@@ -1,0 +1,8 @@
+c:\users\bitm-trainee\documents\visual studio 2013\Projects\StudentInformationApp\StudentInformationApp\bin\Debug\StudentInformationApp.exe.config
+c:\users\bitm-trainee\documents\visual studio 2013\Projects\StudentInformationApp\StudentInformationApp\bin\Debug\StudentInformationApp.exe
+c:\users\bitm-trainee\documents\visual studio 2013\Projects\StudentInformationApp\StudentInformationApp\bin\Debug\StudentInformationApp.pdb
+c:\users\bitm-trainee\documents\visual studio 2013\Projects\StudentInformationApp\StudentInformationApp\obj\Debug\StudentInformationApp.Properties.Resources.resources
+c:\users\bitm-trainee\documents\visual studio 2013\Projects\StudentInformationApp\StudentInformationApp\obj\Debug\StudentInformationApp.StudentInformationUI.resources
+c:\users\bitm-trainee\documents\visual studio 2013\Projects\StudentInformationApp\StudentInformationApp\obj\Debug\StudentInformationApp.csproj.GenerateResource.Cache
+c:\users\bitm-trainee\documents\visual studio 2013\Projects\StudentInformationApp\StudentInformationApp\obj\Debug\StudentInformationApp.exe
+c:\users\bitm-trainee\documents\visual studio 2013\Projects\StudentInformationApp\StudentInformationApp\obj\Debug\StudentInformationApp.pdb

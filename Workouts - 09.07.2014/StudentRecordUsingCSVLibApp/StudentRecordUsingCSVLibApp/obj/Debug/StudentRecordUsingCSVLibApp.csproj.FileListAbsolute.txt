@@ -1,0 +1,9 @@
+c:\users\bitm-trainee\documents\visual studio 2013\Projects\StudentRecordUsingCSVLibApp\StudentRecordUsingCSVLibApp\bin\Debug\StudentRecordUsingCSVLibApp.exe.config
+c:\users\bitm-trainee\documents\visual studio 2013\Projects\StudentRecordUsingCSVLibApp\StudentRecordUsingCSVLibApp\bin\Debug\StudentRecordUsingCSVLibApp.exe
+c:\users\bitm-trainee\documents\visual studio 2013\Projects\StudentRecordUsingCSVLibApp\StudentRecordUsingCSVLibApp\bin\Debug\StudentRecordUsingCSVLibApp.pdb
+c:\users\bitm-trainee\documents\visual studio 2013\Projects\StudentRecordUsingCSVLibApp\StudentRecordUsingCSVLibApp\bin\Debug\CSVLib.dll
+c:\users\bitm-trainee\documents\visual studio 2013\Projects\StudentRecordUsingCSVLibApp\StudentRecordUsingCSVLibApp\obj\Debug\StudentRecordUsingCSVLibApp.StudentRecordKeepingUI.resources
+c:\users\bitm-trainee\documents\visual studio 2013\Projects\StudentRecordUsingCSVLibApp\StudentRecordUsingCSVLibApp\obj\Debug\StudentRecordUsingCSVLibApp.Properties.Resources.resources
+c:\users\bitm-trainee\documents\visual studio 2013\Projects\StudentRecordUsingCSVLibApp\StudentRecordUsingCSVLibApp\obj\Debug\StudentRecordUsingCSVLibApp.csproj.GenerateResource.Cache
+c:\users\bitm-trainee\documents\visual studio 2013\Projects\StudentRecordUsingCSVLibApp\StudentRecordUsingCSVLibApp\obj\Debug\StudentRecordUsingCSVLibApp.exe
+c:\users\bitm-trainee\documents\visual studio 2013\Projects\StudentRecordUsingCSVLibApp\StudentRecordUsingCSVLibApp\obj\Debug\StudentRecordUsingCSVLibApp.pdb
